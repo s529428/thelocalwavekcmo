@@ -5,43 +5,43 @@
 #
 # Note: if you want to stage/commit WP core files
 # you can delete this whole section/until Configuration.
-public_html/wp-admin/
-public_html/wp-content/index.php
-public_html/wp-content/languages
-public_html/wp-content/plugins/index.php
-public_html/wp-content/themes/index.php
-public_html/wp-content/cache
-public_html/wp-content/mc_data
-public_html/wp-includes/
-public_html/index.php
-public_html/license.txt
-public_html/readme.html
-public_html/wp-*.php
-public_html/xmlrpc.php
+wp-admin/
+wp-content/index.php
+wp-content/languages
+wp-content/plugins/index.php
+wp-content/themes/index.php
+wp-content/cache
+wp-content/mc_data
+wp-includes/
+index.php
+license.txt
+readme.html
+wp-*.php
+xmlrpc.php
 
 # Configuration
 public_html/wp-config.php
 
 # Example themes
-public_html/wp-content/themes/twenty*/
+wp-content/themes/twenty*/
 
 # Example plugin
-public_html/wp-content/plugins/hello.php
+wp-content/plugins/hello.php
 
 # Uploads
-public_html/wp-content/uploads/
+wp-content/uploads/
 
 # Log files
 *.log
 
 # htaccess
-public_html/.htaccess
+.htaccess
 
 # All plugins
 #
 # Note: If you wish to whitelist plugins,
 # uncomment the next line
-public_html/wp-content/plugins
+wp-content/plugins
 
 # All themes
 #
@@ -49,7 +49,7 @@ public_html/wp-content/plugins
 # uncomment the next line
 #/wp-content/themes
 
-public_html/malcare-waf.php
-public_html/wp-content/advanced-cache.php
-public_html/wp-content/object-cache.php
+malcare-waf.php
+wp-content/advanced-cache.php
+wp-content/object-cache.php
 .user.ini
