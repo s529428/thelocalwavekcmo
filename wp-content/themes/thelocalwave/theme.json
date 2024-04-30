@@ -1,0 +1,68 @@
+{
+	"$schema": "https://schemas.wp.org/wp/6.5/theme.json",
+	"settings": {
+		"typography": {
+			"fontFamilies": [
+				{
+					"fontFace": [
+						{
+							"fontFamily": "Dosis",
+							"fontStyle": "normal",
+							"fontWeight": "200",
+							"src": "https://thelocalwavekcmo.com/wp-content/uploads/fonts/HhyJU5sn9vOmLxNkIwRSjTVNWLEJt7MV2RkFTq4EPw.woff2"
+						},
+						{
+							"fontFamily": "Dosis",
+							"fontStyle": "normal",
+							"fontWeight": "300",
+							"src": "https://thelocalwavekcmo.com/wp-content/uploads/fonts/HhyJU5sn9vOmLxNkIwRSjTVNWLEJabMV2RkFTq4EPw.woff2"
+						},
+						{
+							"fontFamily": "Dosis",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": "https://thelocalwavekcmo.com/wp-content/uploads/fonts/HhyJU5sn9vOmLxNkIwRSjTVNWLEJN7MV2RkFTq4EPw.woff2"
+						},
+						{
+							"fontFamily": "Dosis",
+							"fontStyle": "normal",
+							"fontWeight": "500",
+							"src": "https://thelocalwavekcmo.com/wp-content/uploads/fonts/HhyJU5sn9vOmLxNkIwRSjTVNWLEJBbMV2RkFTq4EPw.woff2"
+						},
+						{
+							"fontFamily": "Dosis",
+							"fontStyle": "normal",
+							"fontWeight": "600",
+							"src": "https://thelocalwavekcmo.com/wp-content/uploads/fonts/HhyJU5sn9vOmLxNkIwRSjTVNWLEJ6bQV2RkFTq4EPw.woff2"
+						},
+						{
+							"fontFamily": "Dosis",
+							"fontStyle": "normal",
+							"fontWeight": "700",
+							"src": "https://thelocalwavekcmo.com/wp-content/uploads/fonts/HhyJU5sn9vOmLxNkIwRSjTVNWLEJ0LQV2RkFTq4EPw.woff2"
+						},
+						{
+							"fontFamily": "Dosis",
+							"fontStyle": "normal",
+							"fontWeight": "800",
+							"src": "https://thelocalwavekcmo.com/wp-content/uploads/fonts/HhyJU5sn9vOmLxNkIwRSjTVNWLEJt7QV2RkFTq4EPw.woff2"
+						}
+					],
+					"fontFamily": "Dosis, sans-serif",
+					"name": "Dosis",
+					"slug": "dosis"
+				}
+			]
+		}
+	},
+	"styles": {
+		"elements": {
+			"heading": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--dosis)"
+				}
+			}
+		}
+	},
+	"version": 2
+}
