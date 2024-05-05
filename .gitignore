@@ -41,7 +41,8 @@ wp-content/uploads/
 #
 # Note: If you wish to whitelist plugins,
 # uncomment the next line
-wp-content/plugins
+wp-content/plugins/*
+!wp-content/plugins/thelocalwave
 
 # All themes
 #

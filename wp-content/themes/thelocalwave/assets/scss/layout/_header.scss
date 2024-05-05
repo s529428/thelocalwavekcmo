@@ -1,0 +1,25 @@
+.menu-header-container {
+    ul.menu {
+        padding-inline-start: 0;
+    }
+    ul {
+        list-style-type: none;
+    }
+    li {
+        padding: 5px 10px;
+        border-bottom: 1px solid $black;
+    }
+}
+
+@media screen and (min-width: 976px) {
+    .menu-header-container {
+        ul {
+            list-style-type: none;
+            display: inline-block;
+        }
+
+        li {
+            display: inline-block;
+        }
+    }
+}

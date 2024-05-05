@@ -1,0 +1,11 @@
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900
+$weights: 100, 200, 300, 400, 500, 600, 700, 800, 900;
+@each $weight in $weights {
+    .onest-#{$weight} {
+        font-family: "Onest", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: $weight;
+        font-style: normal;
+    }
+}

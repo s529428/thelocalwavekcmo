@@ -1,0 +1,25 @@
+{
+  "name": "thelocalwave",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --watch",
+    "build": "rimraf public && webpack --mode production"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^7.1.1",
+    "mini-css-extract-plugin": "^2.9.0",
+    "node-sass": "^9.0.0",
+    "rimraf": "^5.0.5",
+    "sass-loader": "^14.2.1",
+    "style-loader": "^4.0.0",
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.4.5",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
+  }
+}

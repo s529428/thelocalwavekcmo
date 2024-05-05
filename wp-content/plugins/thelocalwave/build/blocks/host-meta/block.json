@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "thelocalwave/host-meta",
+  "version": "0.1.0",
+  "title": "Host Meta Block",
+  "category": "widgets",
+  "icon": "smiley",
+  "description": "Meta Block",
+  "example": {},
+  "supports": {
+    "html": false
+  },
+  "attributes": {},
+  "textdomain": "thelocalwave",
+  "editorScript": "file:./index.js"
+}

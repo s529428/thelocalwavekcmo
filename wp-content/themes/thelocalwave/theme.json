@@ -53,6 +53,40 @@
 					"slug": "dosis"
 				}
 			]
+		},
+		"color": {
+			"palette": [
+				{
+					"color": "#4855a5",
+					"name": "Local Wave Blue",
+					"slug": "local-wave-blue"
+				},				
+				{
+					"color": "#f27521",
+					"name": "Local Wave Orange",
+					"slug": "local-wave-orange"
+				},
+				{
+					"color": "#d73a96",
+					"name": "Local Wave Pink",
+					"slug": "local-wave-pink"
+				},
+				{
+					"color": "#9ccb3b",
+					"name": "Local Wave Green",
+					"slug": "local-wave-green"
+				},
+				{
+					"color": "#202020",
+					"name": "Local Wave Black",
+					"slug": "local-wave-black"
+				},
+				{
+					"color": "#f5f5f5",
+					"name": "Local Wave White",
+					"slug": "local-wave-white"
+				}
+			]
 		}
 	},
 	"styles": {
